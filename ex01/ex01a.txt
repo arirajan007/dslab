@@ -1,0 +1,66 @@
+
+Array operation Menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display element
+6.exit
+enter your choice:1
+Enter the number of elements:5
+enter 5 elements :1 2 3 4 5
+array created successfully.
+
+Array operation Menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display element
+6.exit
+enter your choice:2
+enter element to insert:10
+enter position to insert (0 to 5):2
+elements inserted successfully .
+
+Array operation Menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display element
+6.exit
+enter your choice:5
+Array elements:1 2 10 3 4 5
+
+Array operation Menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display element
+6.exit
+enter your choice:3
+Enter element to search:10
+Element found at position: 2
+
+Array operation Menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display element
+6.exit
+enter your choice:4
+enter position to delete (0 to 5):2
+element deleted successfully.
+
+Array operation Menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display element
+6.exit
+enter your choice:5
+Array elements:1 2 3 4 5
